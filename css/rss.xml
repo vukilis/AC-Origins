@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml.css" ?>
+ <rss version="2.0">
+  <channel>
+      <item>
+        <title>The Curse of the Pharaohs</title>
+        <description>Watch now: https://youtu.be/VlmTpk47pdI?list=FLQRE6V-oW6ZM1t6_QMFilvw</description>
+        <link>https://gg-skins.000webhostapp.com/index.html</link>
+	  </item>
+      <item>
+        <title>A country to discover</title>
+        <description>Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient factions and wild
+           beasts as you explore this gigantic and unpredictable land.</description>
+        <link>https://gg-skins.000webhostapp.com/index.html#csgo</link>
+      </item>
+	 <item>
+	    <title>Assassin's Creed Origins</title>
+        <description>Assassin’s Creed Origins is a dark, multifaceted, deep dive into one of the series’ most alluring settings yet: ancient Egypt...</description>
+        <link>https://gg-skins.000webhostapp.com/index.html#pubg</link>
+	 </item>
+  </channel>
+ </rss>

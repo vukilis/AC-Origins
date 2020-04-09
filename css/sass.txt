@@ -1,0 +1,86 @@
+/* header */
+
+header {
+  background: #35424a;
+  height: 70px;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1033;
+  width: 100%;
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+  }
+  li {
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  #logo {
+    float: left;
+    padding-top: 8px;
+    height: 70px;
+  }
+}
+
+header {
+  #logo {
+    img {
+      width: 150px;
+    }
+    h1 {
+      margin: 0 0 0 100px;
+      height: 70px;
+    }
+  }
+  nav {
+    float: right;
+    margin-top: 25px;
+  }
+  a {
+    color: #fadf84;
+    &:hover {
+      color: #efa34c;
+      font-weight: bold;
+    }
+  }
+}
+
+/* mreze */
+
+#mreze {
+  font-size: 3em;
+  margin: auto;
+  ul {
+    width: 100%;
+    justify-content: center;
+    li {
+      margin: 0px 10px;
+      display: inline-block;
+      .fa-facebook-square:hover {
+        color: #4286f4;
+      }
+      .fa-instagram:hover {
+        color: #dba6ed;
+      }
+      .fa-twitter-square:hover {
+        color: #48c5f2;
+      }
+      .fa-twitch:hover {
+        color: #6441A4;
+      }
+      .fa-sitemap:hover {
+        color: #62cc4f;
+      }
+      .fa-sass:hover {
+        color: #F00;
+      }
+      a {
+        text-decoration: underline;
+      }
+    }
+  }
+}
